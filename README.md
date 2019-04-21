@@ -27,11 +27,13 @@ This repository contains the implementation of two filters in used widely in ima
 5. Ensure image name and directory paths are properly set in the programs.
 
     **Running above Java codes in terminal**
+    - Java files are for Median Filter.
     - Navigate to the directory in which the program is present.
     - Enter `javac <Name-of-the-file>.java`
     - Enter `java <Name-of-the-file>`
 
     **Running above C++ codes in terminal**
+    - C++ files are for Sobel Filter.
     - Navigate to the directory in which the program is present.
     - Enter `g++ -o <Name-of-the-file> -fopenmp <Name-of-the-file>.cc`
     - Enter `./<Name-of-the-file>`
