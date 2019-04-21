@@ -38,6 +38,10 @@ This repository contains the implementation of two filters in used widely in ima
     
 Note - For better observations, use images with greater number of pixels. Also its a common practice that,
        Sobel filters are used after Median filters. It would also be cool to use an image with salt and pepper noise as
-       an input to Median Filter and the output of it to be used as input for sobel filter.
+       an input to Median Filter and the output of it to be used as input for sobel filter (below is a sample of it).
 
-![Image with salt and pepper noise](Coins1.jpeg)   ![Image after Median Filtering](Coins2.bmp)        ![Image after Sobel Filtering](Coins3.bmp)
+![Coins_Input](Coins1.jpeg)            **Image with salt and pepper noise**
+
+![Coins_Median](Coins2.bmp)            **Image after Median Filtering**
+
+![Coins_Sobel](Coins3.bmp)             **Image after Sobel Filtering**
