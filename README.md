@@ -1,4 +1,5 @@
-##Serial-and-Parallel-Image-Filtering
+### Serial-and-Parallel-Image-Filtering
+
 This repository contains the implementation of two filters in used widely in image processing - 
 
 **Median Filter** - _Median Filter_ is a non-linear digital filtering technique, 
