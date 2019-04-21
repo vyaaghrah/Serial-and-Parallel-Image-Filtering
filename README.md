@@ -35,6 +35,7 @@ This repository contains the implementation of two filters in used widely in ima
     - Navigate to the directory in which the program is present.
     - Enter `g++ -o <Name-of-the-file> -fopenmp <Name-of-the-file>.cc`
     - Enter `./<Name-of-the-file>`
+    - Enter _Input Image Name, Output Image Name_ and _Threshold_.
     
 Note - For better observations, use images with greater number of pixels. Also its a common practice that,
        Sobel filters are used after Median filters. It would also be cool to use an image with salt and pepper noise as
