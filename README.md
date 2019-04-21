@@ -40,8 +40,4 @@ Note - For better observations, use images with greater number of pixels. Also i
        Sobel filters are used after Median filters. It would also be cool to use an image with salt and pepper noise as
        an input to Median Filter and the output of it to be used as input for sobel filter.
 
-![Image with salt and pepper noise](Coins1.jpeg)
-
-![Image after Median Filtering](Coins2.bmp)
-
-![Image after Sobel Filtering](Coins3.bmp)
+![Image with salt and pepper noise](Coins1.jpeg)   ![Image after Median Filtering](Coins2.bmp)        ![Image after Sobel Filtering](Coins3.bmp)
